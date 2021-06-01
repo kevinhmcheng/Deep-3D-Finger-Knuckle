@@ -1,3 +1,5 @@
+This is a Caffe implementation.
+
 This folder provides the 3D finger knuckle images, the network model and the implementation codes for the experiments described in [1].
 The details on the 3D finger knuckle images database can also be observed in [2].
 

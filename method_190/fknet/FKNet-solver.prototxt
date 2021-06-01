@@ -1,0 +1,15 @@
+# The train/test net protocol buffer definition
+net: "FKNet-train.prototxt"
+solver_mode: GPU
+lr_policy: "step"
+base_lr: 0.0001
+stepsize: 100000
+max_iter: 10000
+snapshot: 10000
+snapshot_prefix: "Trained_Model/FKNet-trained"
+momentum: 0.9
+weight_decay: 0.0005
+gamma: 0.1
+display: 100
+
+

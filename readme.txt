@@ -14,7 +14,7 @@ caffe_test_190_fknet.m
 
 
 References:
-[1] Kevin H. M. Cheng and Ajay Kumar. Deep Feature Collaboration for Challenging 3D Finger Knuckle Identification. IEEE Transactions on Information Forensics and Security, 2020.
+[1] Kevin H. M. Cheng and Ajay Kumar. Deep Feature Collaboration for Challenging 3D Finger Knuckle Identification. IEEE Transactions on Information Forensics and Security, (T-IFS), 16, pp.1158-1173, 2021.
 [2] Kevin H. M. Cheng and Ajay Kumar. Contactless Biometrics Identification using 3D Finger Knuckle Patterns. IEEE Transactions on Pattern Analysis and Machine Intelligence, 42(8), pp.1868-1883, 2020.
 
 

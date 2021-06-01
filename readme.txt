@@ -18,5 +18,5 @@ References:
 [2] Kevin H. M. Cheng and Ajay Kumar. Contactless Biometrics Identification using 3D Finger Knuckle Patterns. IEEE Transactions on Pattern Analysis and Machine Intelligence, 42(8), pp.1868-1883, 2020.
 
 
-Due to size limitation, please download the trained model via:
+Due to the size limitation, please download the trained model weights via:
 https://www4.comp.polyu.edu.hk/~cshmcheng/files/code/TIFS20.zip

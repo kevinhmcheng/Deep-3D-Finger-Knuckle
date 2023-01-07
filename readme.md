@@ -1,4 +1,4 @@
-# deep-3d-finger-knuckle
+# Deep Feature Collaboration for Challenging 3D Finger Knuckle Identification
 
 - This is a Caffe implementation.
 - This folder provides the 3D finger knuckle images, the network model and the implementation codes for the experiments described in [1].
